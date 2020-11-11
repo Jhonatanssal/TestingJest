@@ -10,7 +10,7 @@ This repo was built in order to practice JS testing with Jest.
 
 ## Getting started
 
-To get a local copy run `git clone https://github.com/jssarrazolaa/TestingJest.git`
+To get a local copy run `git clone https://github.com/jssarrazolaa/TestingJest.git` and then `npm install` to install all the dependencies.
 
 ## Test
 
