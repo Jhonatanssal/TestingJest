@@ -9,5 +9,5 @@ it('checks for a capitalized word', () => {
 });
 
 it('checks for a capitalized word', () => {
-  expect(capitalize(1235)).toBe(1235);
+  expect(capitalize(1235)).toMatch('is not a string');
 });
